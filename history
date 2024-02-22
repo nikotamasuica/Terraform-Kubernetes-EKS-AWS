@@ -1,0 +1,17 @@
+985  tf apply --auto-approve
+  986  tf apply --auto-approve
+  987  tf init
+  988  tf apply --auto-approve
+  989  tf plan
+  990  tf apply --auto-approve
+  991  tf apply --auto-approve
+  992  tf apply --auto-approve
+  993  tf init
+  994  echo /bin/zsh
+  995  tf init
+  996  tf validate
+  997  tf init
+  998  tf validate
+  999  tf plan
+ 1000  tf apply
+ 
